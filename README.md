@@ -22,4 +22,4 @@ This is a collection of scripts and utilities I put together to help me explore 
 
 # Sample Output
 
-![VANOS Intake Plot](https://1drv.ms/u/s!AklZePO7NxmWhM4YNYITbNILbRlY1A?e=BKXUHQ)
+![VANOS Intake Plot](http://i.stack.imgur.com/ie4yK.png)
