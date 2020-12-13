@@ -13,7 +13,11 @@ This is a collection of scripts and utilities I put together to help me explore 
 
 ![MAF Plot](http://i.stack.imgur.com/ie4yK.png)
 
+---
+
 # What's what
+
+## Utilities
 
 - *ECUReader.pm*
   
@@ -26,6 +30,12 @@ This is a collection of scripts and utilities I put together to help me explore 
 - *Utils.pm*
   
   General-purpose convenience methods related to file processing and output
+
+## Scripts
+
+- *address_scanner.pl*
+
+  Script that "walks" over the ECU binary to identify potential addresses that start 1D, 2D data
 
 - *heatmap.pl*
   
@@ -47,9 +57,13 @@ This is a collection of scripts and utilities I put together to help me explore 
   
   Reads ECU binary and outputs servotronic plots
 
+## Gnuplot Templates
+
 - *\*.gnu*
   
   GNU template files
+
+## Tests
 
 - *\*.t*
   
