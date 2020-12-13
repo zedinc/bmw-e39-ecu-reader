@@ -22,4 +22,6 @@ This is a collection of scripts and utilities I put together to help me explore 
 
 # Sample Output
 
-![VANOS Intake Plot](http://i.stack.imgur.com/ie4yK.png)
+![VANOS Intake Plot](https://i.stack.imgur.com/mVM2L.png)
+
+![MAF Plot](http://i.stack.imgur.com/ie4yK.png)
