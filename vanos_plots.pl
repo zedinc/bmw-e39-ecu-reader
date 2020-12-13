@@ -10,7 +10,7 @@ use Data::Dump 'dd';
 
 my $raw_hex = read_data( +shift );
 
-use constant GNU_TEMPLATE => read_file( 'C:\Users\Zaid\OneDrive\BMW\gnuplot_templates\vanos_plot.gnu' );
+use constant GNU_TEMPLATE => read_file( 'gnuplot_templates\vanos_plot.gnu' );
 use constant INTAKE_ADDR  => 0x10AE ;
 use constant EXHAUST_ADDR => 0x13D2 ;
 # use constant INTAKE_ADDR  => 0x11F0 ;

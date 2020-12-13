@@ -8,7 +8,7 @@ use Utils;
 use ECUReader;
 use Data::Dump 'dd';
 
-use constant GNU_TEMPLATE => read_file( 'C:\Users\Zaid\OneDrive\BMW\gnuplot_templates\vanos_plot.gnu' );
+use constant GNU_TEMPLATE => read_file( 'gnuplot_templates\vanos_plot.gnu' );
 my $raw_hex = read_data( +shift );
 my $addr    = hex( +shift );
 
