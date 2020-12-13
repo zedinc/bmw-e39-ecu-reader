@@ -1,4 +1,9 @@
-*/
+/data_files/
+/exploration/
+/Galletto installation/
+/galletto_1260/
+
 *.png
 *.xlsx
 *.xdf
+*.dlg
