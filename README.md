@@ -1,4 +1,4 @@
-# bmw-e39-ecu-reader
+# BMW E39 5-Series ECU Reader
 
 Some hand-crafted utilities to help make sense of BMW E39 M5 DME binaries.
 
